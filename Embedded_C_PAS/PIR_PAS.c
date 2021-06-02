@@ -2,7 +2,7 @@
  *
  *      File Name:      PIR_PAS.c
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
  *      Project Name:   Embedded_C_PAS
  *
@@ -18,7 +18,7 @@
 
 /*************************************************************************************
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
  *      Function Name:  PIR_init()
  *
@@ -40,7 +40,7 @@ void PIR_init (void)
 
 /*************************************************************************************
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
  *      Function Name:  check_motion()
  *
