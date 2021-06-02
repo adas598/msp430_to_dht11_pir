@@ -2,9 +2,9 @@
  *
  *      File Name:      main.c
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
- *      Project Name:   DHT11
+ *      Project Name:   DHT11 & PIR
  *
  *      @description:   This file is an example of how you can use the functions
  *                      designed in the library DHT11_LIB_PAS
