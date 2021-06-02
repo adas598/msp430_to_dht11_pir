@@ -2,7 +2,7 @@
  *
  *      File Name:      DHT11_PAS.c
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
  *      Project Name:   Embedded_C_PAS
  *
@@ -18,7 +18,7 @@
 
 /*************************************************************************************
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
  *      Function Name:  start_Signal()
  *
@@ -50,7 +50,7 @@ static void start_Signal()
  *
  *      File Name:      DHT11_PAS.c
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush 
  *
  *      Function Name:  check_Response
  *
@@ -99,7 +99,7 @@ static unsigned char check_Response()
 
 /*************************************************************************************
  *
- *      Owner:              Suraj, Ayush and Prathamesh
+ *      Owner:              Ayush
  *
  *      Function Name:      read_Byte
  *
@@ -143,7 +143,7 @@ static unsigned char read_Byte(void)
 
 /*************************************************************************************
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
  *      Function Name:  read_Packet
  *
@@ -178,7 +178,7 @@ unsigned char read_Packet(unsigned char * data)
 
 /*************************************************************************************
  *
- *      Owner:          Suraj, Ayush and Prathamesh
+ *      Owner:          Ayush
  *
  *      Function Name:  validate_checksum
  *
